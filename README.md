@@ -7,6 +7,10 @@ Wrapper for aws polly in bash
 + aws-cli
 + bash
 
+## features
+
++ converts input text into mp3 using Joanna voice
+
 ## build
 
 ```

@@ -19,3 +19,9 @@ Wrapper for aws polly in bash
 ```
 bash aws-polly.sh build
 ```
+
+## usages
+
+```
+polly
+```
